@@ -24,3 +24,8 @@ I'm a Senior Mobile Developer with 10+ years of hands-on experience building pro
 I communicate clearly, deliver on milestones, and adapt quickly to your team's workflow. Open to long-term contracts and part-time hourly engagements.
 
 
+# 📱 Morniing
+ 
+> ⚠️ **Note:** This repository contains no source code. The project was built under a client contract (NDA).
+
+🔗 [[Play Store listing]](https://play.google.com/store/apps/details?id=com.morniing)
