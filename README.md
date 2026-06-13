@@ -22,3 +22,5 @@ I'm a Senior Mobile Developer with 10+ years of hands-on experience building pro
 📦 Delivered apps across fintech, e-commerce, healthcare, and enterprise domains
 
 I communicate clearly, deliver on milestones, and adapt quickly to your team's workflow. Open to long-term contracts and part-time hourly engagements.
+
+
