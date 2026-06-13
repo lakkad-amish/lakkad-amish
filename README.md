@@ -45,7 +45,7 @@ I communicate clearly, deliver on milestones, and adapt quickly to your team's w
 
 ## Contact
  
-Interested in discussing this project in detail?
+Interested in discussing any project in detail?
  
 - 📧 lakkad.amish@gmail.com
 - 💼 [https://linkedin.com/in/amish-lakkad](https://www.linkedin.com/in/amish-lakkad/)
