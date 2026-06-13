@@ -24,8 +24,18 @@ I'm a Senior Mobile Developer with 10+ years of hands-on experience building pro
 I communicate clearly, deliver on milestones, and adapt quickly to your team's workflow. Open to long-term contracts and part-time hourly engagements.
 
 
+> ⚠️ **Note:** This repository contains no source code. Most of project was built under a client contract (NDA).
+
 # 📱 Morniing
- 
-> ⚠️ **Note:** This repository contains no source code. The project was built under a client contract (NDA).
 
 🔗 [[Play Store listing]](https://play.google.com/store/apps/details?id=com.morniing)
+
+
+# 📱 WORLD NEWS
+ 
+🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.pro.all.world.news)
+
+
+# 📱 Flashes - Real-time news
+ 
+🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.pro.mivzakim)
