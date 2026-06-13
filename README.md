@@ -28,7 +28,7 @@ I communicate clearly, deliver on milestones, and adapt quickly to your team's w
 
 # 📱 Morniing
 
-🔗 [[Play Store listing]](https://play.google.com/store/apps/details?id=com.morniing)
+🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.morniing)
 
 
 # 📱 WORLD NEWS
