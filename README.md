@@ -26,16 +26,22 @@ I communicate clearly, deliver on milestones, and adapt quickly to your team's w
 
 > ⚠️ **Note:** This repository contains no source code. Most of project was built under a client contract (NDA).
 
-# 📱 Kalupur CONNECT
+# 📱 Kalupur CONNECT - Banking Application
 
-🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.kccb.mb)
+🔗 Android [Play Store listing](https://play.google.com/store/apps/details?id=com.kccb.mb)
 
-# 📱 Morniing
+🔗 IOS [App Store](https://apps.apple.com/in/app/kalupur-connect/id6752886964)
+
+# 📱 I-Khedut 2. - Government - Productivity 
+
+🔗 Android [Play Store listing](https://play.google.com/store/apps/details?id=com.ikhedut.two)
+
+# 📱 Morniing - E Commerce
 
 🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.morniing)
 
 
-# 📱 WORLD NEWS
+# 📱 WORLD NEWS - News
  
 🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.pro.all.world.news)
 
