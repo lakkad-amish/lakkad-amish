@@ -26,6 +26,10 @@ I communicate clearly, deliver on milestones, and adapt quickly to your team's w
 
 > ⚠️ **Note:** This repository contains no source code. Most of project was built under a client contract (NDA).
 
+# 📱 Kalupur CONNECT
+
+🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.kccb.mb)
+
 # 📱 Morniing
 
 🔗 [Play Store listing](https://play.google.com/store/apps/details?id=com.morniing)
